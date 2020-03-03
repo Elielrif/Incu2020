@@ -85,7 +85,7 @@ def Main():
                 message = getHostname(node)
         elif message == "show version":
                 message = getVersion()
-        elif message == "hostname NXOS"
+        elif message == "hostname NXOS":
                 message = changeHostname()
         else:
                 message = "I do not understand"
