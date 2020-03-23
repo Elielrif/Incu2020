@@ -1,0 +1,6 @@
+GET http://localhost:5000/mastodon/interfaces.JSON
+content-Type: application/json
+
+
+
+###

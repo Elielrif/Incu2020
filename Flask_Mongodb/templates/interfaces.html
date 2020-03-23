@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>interfaces</title>
+</head>
+<body>
+    {%  for entry in result %}
+        <tr>
+            <td>{{ entry['Switch_name'] }}</td>&nbsp;
+            <td>{{ entry['Interface_Name'] }}</td>&nbsp;
+            <td>{{ entry['Description'] }}</td>&nbsp;
+            <td>{{ entry['state'] }}</td><br/>
+
+        </tr>
+    {% endfor %}
+</body>
+</html>

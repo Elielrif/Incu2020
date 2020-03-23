@@ -1,0 +1,4 @@
+GET http://localhost:5000/bru-dna-1/g1.0/details.JSON
+content-Type: application/json
+
+###

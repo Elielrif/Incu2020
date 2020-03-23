@@ -1,0 +1,9 @@
+PATCH http://localhost:5000/mastodon/5e77bee2787c5c7b4e8d61f8
+content-Type: application/json
+
+{"state": "up " }
+
+
+###5e77bee2787c5c7b4e8d61f8
+
+
